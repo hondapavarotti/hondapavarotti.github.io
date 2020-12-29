@@ -17,6 +17,7 @@ h3 {
 
 header {
     margin: 20px;
+	position: fixed;
 }
 
 .sidebar {
