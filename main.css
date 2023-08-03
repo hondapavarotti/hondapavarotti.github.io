@@ -68,9 +68,9 @@ footer {
 }
 
 div.intro {
-  padding: 5px;
-  position: fixed;
-  background: #ffffff;
+    padding: 20px;
+    position: fixed;
+    background: #ffffff;
   margin-top: 85px;
   height: auto;
 }
@@ -79,9 +79,9 @@ div.content {
   margin-left: 250px;
   margin-right: 20px;
   padding-top: 95px;
-  padding-bottom: 90px;
+    padding-bottom: 90px;
   height: auto;
-  max-width: 110vh;
+    max-width: 110vh;
 }
 
 .center {
@@ -92,13 +92,13 @@ div.content {
 }
 
 div.column50 {
-    float: left;
-    width: 50%;
+  float: left;
+width: 50%;
     
 }
 
 div.column40 {
-    float: left;
+  float: left;
     width: 40%;
     
 }
